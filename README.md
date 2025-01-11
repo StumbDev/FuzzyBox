@@ -1,2 +1,2 @@
 # FuzzyBox
-An superFS system
+An Node-based and modern Busybox alternative
